@@ -1,7 +1,6 @@
 ### Olá! Eu sou Monique Campos
 
 
-- 🔭 Hoje estou aprendendo back-end
 - 🌱 Estudando python
 
 <div align="center">
