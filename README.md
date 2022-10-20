@@ -1,7 +1,7 @@
-### Olá! Eu sou Monique Campos
+### I'am Monique Campos!
 
 
-- 🌱 Em progresso
+- 🌱 In process
 
 <div align="center">
   <a href="https://github.com/CyberNicky">
