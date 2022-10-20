@@ -1,4 +1,4 @@
-### I'am Monique Campos!
+### Hi, I'am Monique Campos!
 
 
 - 🌱 In process
