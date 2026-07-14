@@ -1,35 +1,90 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Monique;I'm+21+years+old;I'm+from+Brazil;I+Study+Informations+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Monique%20Campos&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Front-end%20Developer%20%7C%20Mestranda%20em%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=17"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CyberNicky&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Monique Campos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberNicky&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=23\&duration=3000\&pause=900\&color=7C3AED\&center=true\&vCenter=true\&width=750\&lines=Ol%C3%A1%2C+eu+sou+a+Monique!+%F0%9F%91%8B;Desenvolvedora+Front-end;Angular+%7C+TypeScript+%7C+AWS;Mestranda+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPE;Transformando+ideias+em+experi%C3%AAncias+digitais)](https://git.io/typing-svg)
+
 </div>
 
+## 👩‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberNicky&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+Olá! Meu nome é **Monique**. Sou **desenvolvedora Front-end** e **mestranda em Ciência da Computação na Universidade Federal de Pernambuco — UFPE**.
 
-<div align="center"> 
-<a href="https://www.instagram.com/nicky_albuquerquee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:nickyalbuquerque2008@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/monique-campos-albuquerque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=DC143C)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
+Gosto de desenvolver aplicações modernas, acessíveis, escaláveis e focadas na experiência do usuário. Minha principal atuação é com **Angular** e **TypeScript**, participando de todas as etapas do desenvolvimento, desde a arquitetura e implementação até testes e deploy.
 
+* 🎓 Mestranda em Ciência da Computação na **UFPE**
+* 💻 Desenvolvedora Front-end
+* 🧡 Experiência com aplicações web de grande escala
+* ☁️ Interesse em arquitetura de software, cloud e observabilidade
+* 📚 Sempre aprendendo e compartilhando conhecimento
+* 🚀 Apaixonada por transformar problemas complexos em soluções simples
 
+## 🚀 Tecnologias e ferramentas
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+<div align="center">
 
+### Front-end
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,react,nextjs,html,css,sass,materialui&perline=9" />
+
+### Back-end, Cloud e DevOps
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,aws,docker,terraform,git,github,githubactions&perline=8" />
+
+### Testes e ferramentas
+
+<img src="https://skillicons.dev/icons?i=jest,vscode,figma,postman,linux&perline=5" />
+
+</div>
+
+## 🔬 Pesquisa acadêmica
+
+Atualmente, desenvolvo pesquisas relacionadas à **avaliação quantitativa de requisitos não funcionais em arquiteturas de microserviços**, explorando temas como:
+
+* Observabilidade
+* Injeção de falhas
+* Modelagem formal
+* Disponibilidade e desempenho
+* Arquiteturas distribuídas
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=CyberNicky&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberNicky&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=CyberNicky&hide_border=true&theme=transparent" />
+
+</div>
+
+## 📈 Atividade
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberNicky&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+## 🌐 Vamos nos conectar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLOQUE_AQUI_SEU_LINK_DO_LINKEDIN)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge\&logo=googlechrome\&logoColor=white)](COLOQUE_AQUI_SEU_LINK_DO_PORTFOLIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/CyberNicky)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✨ “Tecnologia é transformar conhecimento em impacto.”
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</div>
